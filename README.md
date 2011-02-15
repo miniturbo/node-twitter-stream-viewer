@@ -18,6 +18,6 @@
 
     $ vi ./app.js
 
-  node（もしくは、[node-dev](https://github.com/fgnass/node-dev), [spark](https://github.com/loudej/spark)）で起動する
+  node（もしくは、[node-dev](https://github.com/fgnass/node-dev), [spark](https://github.com/alexkwolfe/spark)）で起動する
 
     $ node app.js
