@@ -21,3 +21,9 @@
   node（もしくは、[node-dev](https://github.com/fgnass/node-dev), [spark](https://github.com/alexkwolfe/spark)）で起動する
 
     $ node app.js
+
+## TODO
+
+ * 画面をもうちょいリッチにする
+ * REST APIを使用できるようにする
+ * 定期的に発生する（と思われる）Twitter Streaming APIのdisconnectへの対処
